@@ -2,4 +2,4 @@
 
 Static website prepared for GitHub Pages.
 
-Custom domain: `www.dhoneicecream.cooo.in
+Custom domain: `www.dhoneicecream.com
